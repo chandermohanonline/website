@@ -1,0 +1,72 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: rgb(29, 27, 156);
+  background-image: url(/images/truck\ pick\ 2.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.container {
+  width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header {
+  height: 100px;
+  text-align: center;
+}
+nav {
+  background-color: rgba(0, 0, 0, 0.342);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+main {
+  height: 500px;
+  text-align: center;
+  padding-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+footer {
+  height: 100px;
+  background-color: rgba(0, 0, 0, 0.562);
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+h1 {
+  font-size: 80px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+p {
+  font-size: 40px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+a {
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+nav a {
+  text-decoration: none;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+footer p {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.maps {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
